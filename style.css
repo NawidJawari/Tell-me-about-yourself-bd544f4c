@@ -1,0 +1,55 @@
+h1	{
+	color: red
+} 
+
+h2 {
+	color: purple
+}
+
+
+h3 {
+	color: blue
+}
+
+span {
+	background-color: skyblue;
+}
+
+span {
+	font-size: 80% }
+
+.exampleone {
+	background-color: #777799;
+	color: #FFFFFF;
+}
+
+.px_length {
+	width: 200px;
+	background-color: red;
+	color: blue;
+	border: 1px solid black;
+}
+
+.em_length {
+	width: 20em;
+	background-color: white;
+	color: blue;
+	border: 1px solid black;
+}
+
+img {
+	width: 175px;
+}
+
+label {
+    display: block;
+    font: 1rem 'Fira Sans', sans-serif;
+    color: purple
+}
+
+input,
+label {
+    margin: .1rem 1;
+    border-radius: 10px;
+}
+
